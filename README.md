@@ -1,5 +1,5 @@
 ## SIFA
-[**Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation**](https://arxiv.org/abs/1901.08211) AAAI, 2019 (oral)
+[**Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation**](https://arxiv.org/abs/1901.08211)
 <br/>
 <br/>
 ![](figure/framework.png)
@@ -27,7 +27,7 @@ If you make use of the code, please cite the paper in resulting publications.
 @article{chen2019synergistic,
   title={Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation},
   author={Chen, Cheng and Dou, Qi and Chen, Hao and Qin, Jing and Heng, Pheng-Ann},
-  journal={arXiv preprint arXiv:1901.08211},
+  journal={AAAI},
   year={2019}
 }
 ```
