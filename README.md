@@ -21,6 +21,13 @@ cd SIFA
 * Modify paramter values in `./config_param.json`
 * Run `./main.py` to start the training process
 
-## Note
-* The repository is being updated
-* Contact: Cheng Chen (chencheng236@gmail.com)
+
+If you make use of the code, please cite the paper in resulting publications.
+```
+@article{chen2019synergistic,
+  title={Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation},
+  author={Chen, Cheng and Dou, Qi and Chen, Hao and Qin, Jing and Heng, Pheng-Ann},
+  journal={arXiv preprint arXiv:1901.08211},
+  year={2019}
+}
+```
