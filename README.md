@@ -21,6 +21,8 @@ cd SIFA
 * Modify paramter values in `./config_param.json`
 * Run `./main.py` to start the training process
 
+<br/>
+<br/>
 
 If you make use of the code, please cite the paper in resulting publications.
 ```
